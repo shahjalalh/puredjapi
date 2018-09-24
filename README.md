@@ -4,3 +4,8 @@
 2. Retrieve (GET)
 3. Update (PUT)
 4. Delete (DELETE)
+
+```
+user: shahjalal
+password: admin1234
+```
